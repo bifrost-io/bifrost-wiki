@@ -42,7 +42,7 @@ In the SLP protocol, the protocol screens more than **10 verified nodes** throug
 **Multi-environment Compatibility**
 {% endhint %}
 
-vMOVR is one of Substrate assets in Bifrost parachain, by using the [HRMP](https://wiki.polkadot.network/docs/learn-crosschain#xcmp-cross-chain-message-passing) channels between Bifrost and others, it can be easily utilized in EVM, WASM and Substrate competiable parachains.
+vMOVR is one of Substrate assets in Bifrost parachain, by using the [HRMP](https://wiki.polkadot.network/docs/learn-crosschain#xcmp-cross-chain-message-passing) channels between Bifrost and others, it can be easily utilized in EVM, WASM and Substrate compatible parachains.
 
 ## How it works?
 
