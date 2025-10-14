@@ -20,7 +20,7 @@ The product allows users to stake DOT for liquid vToken, (vDOT). vDOT will keep 
 **Automatically Staking rewards capturing without scenario limitations**
 {% endhint %}
 
-SLP will issue Staking rewards to vDOT by adjusting the price of vDOT / DOT upwards. vDOT Rate = SLP Staking DOT (SUM) / vDOT Total Allocation.
+SLP will issue Staking rewards to vDOT by adjusting the price of vDOT / DOT upwards. vDOT Rate = SLP Staking DOT (SUM) / vDOT Total Issuance.
 
 {% hint style="success" %}
 **Floating redemption period, vDOT redemption ≤ 28 days**
