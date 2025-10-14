@@ -182,7 +182,7 @@ There are several filters to select vDOT Validators:
 
 ## Selecting Organization
 
-The selecting organization will evolute in 3 stages:
+The selecting organization will evolve in 3 stages:
 
 1. Bifrost Team&#x20;
 2. Bifrost Council&#x20;
