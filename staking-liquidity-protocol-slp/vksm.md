@@ -188,7 +188,7 @@ The selecting organization will evolve in 3 stages:
 2. Bifrost Council&#x20;
 3. SLP automatic selection (current stage)
 
-Validator selection or replacement is a automatic process, it depends on a score ranking which is socred by a script:
+Validator selection or replacement is a automatic process, it depends on the score of a ranking script:
 
 [**Validator Score Ranking**](https://docs.google.com/spreadsheets/d/13YdCMc\_bVdmy5My22mWRTC5ITwVEaRZQi4fIZGr8tSw/edit#gid=628365504)
 
