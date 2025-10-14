@@ -126,7 +126,7 @@ When a new Era message is received by SLP, the system mainly performs the follow
 * Get the new staking reward data in current era, a part of which is directly transferred to the Aggregator module across the chain according to the Bifrost service commission rate.
 * After confirming that all current operations are successful, end the operation and issue a completion event
 
-#### In the End of an Era
+#### At the End of an Era
 
 After receiving the Era End message, the system performs the following operations in sequence:
 
