@@ -20,7 +20,7 @@ The product allows users to stake DOT for liquid vToken, (vDOT). vDOT will keep 
 **Automatically Staking rewards capturing without scenario limitations**
 {% endhint %}
 
-SLP will issue Staking rewards to vDOT by adjusting the price of vDOT / DOT upwards. vDOT Rate = SLP Staking DOT (SUM) / vDOT Total Allocation.
+SLP will issue Staking rewards to vDOT by adjusting the price of vDOT / DOT upwards. vDOT Rate = SLP Staking DOT (SUM) / vDOT Total Issuance.
 
 {% hint style="success" %}
 **Floating redemption period, vDOT redemption ≤ 28 days**
@@ -38,7 +38,7 @@ In the SLP protocol, the protocol screens more than **10 verified nodes** throug
 **Multi-environment Compatibility**
 {% endhint %}
 
-vDOT is one of Substrate assets in Bifrost parachain, by using the [HRMP](https://wiki.polkadot.network/docs/learn-crosschain#xcmp-cross-chain-message-passing) channels between Bifrost and others, it can be easily utilized in EVM, WASM and Substarte competiable parachains.
+vDOT is one of Substrate assets in Bifrost parachain, by using the [HRMP](https://wiki.polkadot.network/docs/learn-crosschain#xcmp-cross-chain-message-passing) channels between Bifrost and others, it can be easily utilized in EVM, WASM and Substrate compatible parachains.
 
 ## How it works?
 
@@ -182,13 +182,13 @@ There are several filters to select vDOT Validators:
 
 ## Selecting Organization
 
-The selecting organization will evolute in 3 stages:
+The selecting organization will evolve in 3 stages:
 
 1. Bifrost Team&#x20;
 2. Bifrost Council&#x20;
 3. SLP automatic selection (current stage)
 
-Validator selecting or replacement is a automatic process, it depends on a score ranking which is socred by a script:
+Validator selection or replacement is an automatic process, it depends on the score of a ranking script:
 
 [**Validator Score Ranking**](https://docs.google.com/spreadsheets/d/13YdCMc\_bVdmy5My22mWRTC5ITwVEaRZQi4fIZGr8tSw/edit#gid=628365504)
 
