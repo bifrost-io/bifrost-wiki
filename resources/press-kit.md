@@ -2,7 +2,7 @@
 
 ### Logo Assets
 
-[Download](https://github.com/bifrost-finance/design-assets/raw/master/brand/Bifrost-Logo-Assets.zip)
+[Download](https://github.com/bifrost-io/bifrost-design-assets/raw/master/brand/Bifrost-Logo-Assets.zip)
 
 ### User Guide
 
@@ -50,9 +50,9 @@ In some other scenarios (such as project avatars, promotional pictures, social m
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MVzXa22j6fsQEjpS4Ht-887967055%2Fuploads%2Fgit-blob-9c98e2fabb446b8df92277ef89b3b383c7810c48%2Fimage.png?alt=media)
 
-[bnc\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token\_logo/bnc/BNC\_Pack.zip)
+[bnc\_pack](https://raw.githubusercontent.com/bifrost-io/bifrost-design-assets/master/token\_logo/bnc/BNC\_Pack.zip)
 
-[Online](https://github.com/bifrost-finance/design-assets/tree/master/token\_logo/bnc)
+[Online](https://github.com/bifrost-io/bifrost-design-assets/tree/master/token\_logo/bnc)
 
 #### vETH
 
@@ -60,7 +60,7 @@ In some other scenarios (such as project avatars, promotional pictures, social m
 
 [veth\_pack](https://cdn.liebi.com/resource/vETH\_Pack.zip)
 
-[Online](https://github.com/bifrost-finance/design-assets/tree/master/token\_logo/veth)
+[Online](https://github.com/bifrost-io/bifrost-design-assets/tree/master/token\_logo/veth)
 
 #### Substrate vToken
 
